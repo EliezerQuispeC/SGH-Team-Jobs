@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliez\\source\\repos\\SGH\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\eliez\\source\\repos\\SGH\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliez\\source\\repos\\SGH\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

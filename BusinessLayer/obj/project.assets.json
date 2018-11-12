@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliez\\source\\repos\\SGH\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\eliez\\source\\repos\\SGH\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliez\\source\\repos\\SGH\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -742,11 +742,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\eliez\\source\\repos\\SGH\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\eliez\\source\\repos\\SGH\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\eliez\\source\\repos\\SGH\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\eliez\\source\\repos\\SGH\\Entities\\Entities.csproj"
+            "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj"
             }
           }
         }

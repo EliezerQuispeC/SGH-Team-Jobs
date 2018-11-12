@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliez\\source\\repos\\SGH\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\eliez\\source\\repos\\SGH\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliez\\source\\repos\\SGH\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

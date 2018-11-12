@@ -9,7 +9,7 @@ namespace AccesoDatos
         public static string ConexionPacientes()
         {
             string pathBDPacientes = System.IO.Path.GetDirectoryName(
-                Assembly.GetEntryAssembly().Location);
+                Assembly.GetEntryAssembly().Location);//GetEntryAssembly():Obtiene el ejecutable del proceso en el dominio de aplicación predeterminado.
             return pathBDPacientes;
         }
     }

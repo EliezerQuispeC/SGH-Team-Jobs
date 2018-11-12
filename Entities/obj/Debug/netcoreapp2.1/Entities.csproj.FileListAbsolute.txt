@@ -7,3 +7,12 @@ C:\Users\eliez\source\repos\SGH\Entities\obj\Debug\netcoreapp2.1\Entities.Assemb
 C:\Users\eliez\source\repos\SGH\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
 C:\Users\eliez\source\repos\SGH\Entities\obj\Debug\netcoreapp2.1\Entities.dll
 C:\Users\eliez\source\repos\SGH\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+C:\Users\eliez\Documents\GitHub\SGH-Team-Jobs\Entities\obj\Debug\netcoreapp2.1\Entities.pdb

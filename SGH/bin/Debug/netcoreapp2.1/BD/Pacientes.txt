@@ -1,2 +1,2 @@
-44221133,Jose,Herrera
-55443300,Ledy Monica,Mamani
+44221133,Jose,Herrera,09/08/07,Asegurado
+55443300,Ledy Monica,Mamani,03/11/12,Particular
