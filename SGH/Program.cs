@@ -16,6 +16,7 @@ namespace SGH
                 Console.Write("Probando ");
             }
             Console.ReadKey();
+            Console.WriteLine("habla barrio");
         }
     }
 }
