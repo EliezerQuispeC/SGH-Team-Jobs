@@ -732,23 +732,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eliez\\.nuget\\packages\\": {},
+    "C:\\Users\\Tecsup\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\SGH.csproj",
+      "projectUniqueName": "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\SGH.csproj",
       "projectName": "SGH",
-      "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\SGH.csproj",
-      "packagesPath": "C:\\Users\\eliez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\obj\\",
+      "projectPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\SGH.csproj",
+      "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\SGH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\eliez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tecsup\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -761,11 +761,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\eliez\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj"
+            "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Tecsup\\Documents\\GitHub\\SGH-Team-Jobs\\Entities\\Entities.csproj"
             }
           }
         }
